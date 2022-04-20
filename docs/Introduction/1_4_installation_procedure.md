@@ -19,6 +19,7 @@ Double-click on ![[../../image20220420215049.png]] ```CrossLite+ Install``` to r
 The installation program will display the sequence of screens with the default configuration.
 
 **Note**: You must accept the license terms of use of the Software.
+
 - ![[../../image20220420215137.png]]
 - ![[../../image20220420215142.png]]
 - ![[../../image20220420215147.png]]
@@ -28,10 +29,12 @@ The installation program will display the sequence of screens with the default c
 
 After the steps described above, a shortcut will be created on your desktop with this icon ![[../../image20220420215220.png]].
 
-CrossLite+ software uses a license tool through a usb stick hardware/hardlock device. 
+CrossLite+ software uses a license tool through a usb stick hardware/hardlock device.
+
 The USB device must remain connected for the software to function. 
 
 For Brazilian customers a USB hardware key is provided after purchase of the license. 
+
 For customers from another country than Brazil, please use an empty FAT32 formated and named “FMSCIENCE“, containing your personal “final key“ file (.kcl). 
 
 **NOTE:** It is recommended NOT to use this hard lock/USB port device for various use, as the license key is stored and evaluated throughout the time of use of the software. 

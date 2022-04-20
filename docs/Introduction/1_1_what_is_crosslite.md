@@ -11,14 +11,6 @@ The application supports several real-time and off-line processes, which can be 
 	- Evaluate the significant perceptual room acoustic parameters using ISO standard methods
 - and many more!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-- Simple unordered list
-	- Nested item
-		- Nested again
-	- 2nd layer
-- Another item
-
 Developed for Windows® operating system by the experienced Brazilian engineer 
 Francisco Nunes Monteiro, CrossLite+ is a fast and accurate decision making tool, which frees the operator from reliance on continuous output of measurement signals through loudspeakers or devices.
 

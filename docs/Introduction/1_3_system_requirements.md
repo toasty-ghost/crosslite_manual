@@ -1,6 +1,7 @@
 # System Requirements
 ## Minimum Requirements 
 The following computer specification is needed to run CrossLite+:
+
 - Dual-core processor with 2.0 Gigahertz or faster clock speed
 - 8 GB RAM recommended
 - Windows® 8 to Windows® 10 Home, Pro, Education, or Enterprise
