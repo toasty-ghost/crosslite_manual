@@ -27,7 +27,6 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
-  - ezlinks
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
@@ -43,4 +42,5 @@ markdown_extensions:
 
 plugins:
   - search
+  - ezlinks
   - roamlinks 
