@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "docs/index.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a47a67c7de4a44e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "docs/Introduction/1_1_what_is_crosslite.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -96,7 +107,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9075023534194a92",
+  "active": "a47a67c7de4a44e4",
   "lastOpenFiles": [
     "docs/Introduction/1_1_what_is_crosslite.md",
     "docs/index.md",
