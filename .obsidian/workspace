@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/1. Introduction/1_4_installation_procedure.md",
-            "mode": "source"
+            "file": "docs/Introduction/1_1_what_is_crosslite.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1. Introduction/1_4_installation_procedure.md",
+                "file": "docs/Introduction/1_1_what_is_crosslite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a9bf6c8565d5dcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Introduction/1_1_what_is_crosslite.md"
               }
             }
           }
@@ -88,10 +98,10 @@
   },
   "active": "9075023534194a92",
   "lastOpenFiles": [
-    "docs/1. Introduction/1_4_installation_procedure.md",
-    "docs/1. Introduction/1_2_legal_notices_license_terms.md",
-    "docs/1. Introduction/1_1_what_is_crosslite.md",
-    "docs/1. Introduction/1_3_system_requirements.md",
-    "docs/index.md"
+    "docs/Introduction/1_1_what_is_crosslite.md",
+    "docs/index.md",
+    "docs/Introduction/1_4_installation_procedure.md",
+    "docs/Introduction/1_2_legal_notices_license_terms.md",
+    "docs/Introduction/1_3_system_requirements.md"
   ]
 }

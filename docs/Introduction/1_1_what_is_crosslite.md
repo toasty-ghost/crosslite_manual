@@ -7,7 +7,7 @@ The application supports several real-time and off-line processes, which can be 
 - Create reports from measured electrical and acoustic data
 - Conduct audio research & investigations
 - Characterise & optimise audio transducers, with automated Batch Quality Control scripting
-- Evaluate the significant perceptual room acoustic parameters using ISO standard methods
+	- Evaluate the significant perceptual room acoustic parameters using ISO standard methods
 - and many more!
 
 Developed for Windows® operating system by the experienced Brazilian engineer 

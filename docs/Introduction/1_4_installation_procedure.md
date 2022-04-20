@@ -3,31 +3,30 @@ After CrossLite+ software purchase, you will receive all needed instructions to 
 
 You may create a folder where you can download and store the latest available updates.
 
-At this point, it is assumed that you are already familiar with the operating system’s 
-application installation processes. 
+At this point, it is assumed that you are already familiar with the operating system’s application installation processes. 
 
 Below, an example of the installer package (compressed, .zip format).
-![[installer_zip_package.png]]
+![[../../installer-zip-package.png]]
 
 After downloading the file, perform the procedure to unzip the installation file to one of the folder:
-![[Pasted image 20220420215024.png]]
+![[../../image20220420215024.png]]
 
 Accessing the ```..\F.MonteiroScience  CrossLite+``` folder of the installation version:
-![[Pasted image 20220420215032.png]]
+![[../../image20220420215032.png]]
 
-Double-click on ![[Pasted image 20220420215049.png]] ```CrossLite+ Install``` to run the CrossLite+ installation program.
+Double-click on ![[../../image20220420215049.png]] ```CrossLite+ Install``` to run the CrossLite+ installation program.
 
 The installation program will display the sequence of screens with the default configuration.
 
 **Note**: You must accept the license terms of use of the Software.
-- ![[Pasted image 20220420215137.png]]
-- ![[Pasted image 20220420215142.png]]
-- ![[Pasted image 20220420215147.png]]
-- ![[Pasted image 20220420215154.png]]
-- ![[Pasted image 20220420215201.png]]
-- ![[Pasted image 20220420215206.png]]
+- ![[../../image20220420215137.png]]
+- ![[../../image20220420215142.png]]
+- ![[../../image20220420215147.png]]
+- ![[../../image20220420215154.png]]
+- ![[../../image20220420215201.png]]
+- ![[../../image20220420215206.png]]
 
-After the steps described above, a shortcut will be created on your desktop with this icon ![[Pasted image 20220420215220.png]].
+After the steps described above, a shortcut will be created on your desktop with this icon ![[../../image20220420215220.png]].
 
 CrossLite+ software uses a license tool through a usb stick hardware/hardlock device. 
 The USB device must remain connected for the software to function. 
