@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/1. Introduction/1.1 What is CrossLite+.md",
+            "file": "docs/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1. Introduction/1.1 What is CrossLite+.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "9075023534194a92",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/1. Introduction/1.1 What is CrossLite+.md"
   ]
 }
