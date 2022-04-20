@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "b3c42565be709b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9075023534194a92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/1. Introduction/1.1 What is CrossLite+.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c513c837c9cf620",
+    "type": "split",
+    "children": [
+      {
+        "id": "783b42383f10cf39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804c9ce2a51d6200",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d21558fca70c8e2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee689e3a6affc256",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8625172e5c965c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a9e9bfc31cc276c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/1. Introduction/1.1 What is CrossLite+.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9075023534194a92",
+  "lastOpenFiles": [
+    "docs/1. Introduction/1.1 What is CrossLite+.md"
+  ]
+}
