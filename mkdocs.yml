@@ -42,5 +42,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - ezlinks
   - roamlinks 
